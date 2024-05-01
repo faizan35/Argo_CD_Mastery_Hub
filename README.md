@@ -32,8 +32,9 @@
 
 #### [2.1: Installation Methods](./Module-02/2.1-Installation-Methods.md)
 
+1. Installation using Kubernetes manifests
+
 - Step-by-step guide to CLI installation of Argo CD
-- Deployment using Kubernetes manifests
 - Installing Argo CD via Helm chart
 
 #### 2.2: Installing Argo CD on Kubernetes Clusters
@@ -58,6 +59,14 @@
 - Setting up Argo CD to work with Git repositories
 - Handling authentication and authorization for Git integration
 - Automating synchronization between Git repositories and Argo CD
+
+---
+
+### Module x: Setting Up Argo CD - Rollout
+
+#### [2.1: Installation Methods](./Module-0x/x.1-Installation-Methods.md)
+
+---
 
 ### Module 3: Application Definitions with Helm Charts
 
